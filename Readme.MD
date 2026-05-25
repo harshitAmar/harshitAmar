@@ -75,13 +75,11 @@ I’m passionate about clean architecture, maintainable code, real-time systems,
 
 # 📦 Published Packages
 
-> Replace these with your actual pub.dev packages.
-
-| Package        | Description               |
-| -------------- | ------------------------- |
-| package_name_1 | Short package description |
-| package_name_2 | Short package description |
-| package_name_3 | Short package description |
+| Flutter Packages      | Description               |
+| --------------------- | ------------------------- |
+| provider_cli          | A CLI tool for feature first folder structure with routing setup and dependency injection |
+| custom_button_library | A Simple yet useful package for prebuilt button widgets |
+| validation_helper     | A Simple yet useful package for reducing your efforts for validating textfields  |
 
 ---
 
@@ -150,10 +148,9 @@ Flutter • just_audio • Firebase
 
 # 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn URL
-* GitHub: Your GitHub URL
-* Portfolio: Your Portfolio URL
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https:www.linkedin.com/in/harshitamar
+* GitHub: https:www.github.com/in/harshitamar
+* Email: [amarjeet.srivastava.dev@gmail.com](mailto:amarjeet.srivastava.dev@gmail.com)
 
 ---
 
